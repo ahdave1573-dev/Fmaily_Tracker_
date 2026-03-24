@@ -37,7 +37,7 @@ Design: Material Design Components, Vector Graphics
 Clone the Repository:
 
 Bash
-git clone https://github.com/yourusername/family-gps-tracker.git
+git clone https://github.com/ahdave1573-dev/Fmaily_Tracker_.git
 Firebase Configuration:
 
 Create a new project in the Firebase Console.
