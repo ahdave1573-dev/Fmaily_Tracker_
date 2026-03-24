@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.gpstracker.app-mergeDebugResources-42:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Himansubhai\\.gradle\\caches\\8.10\\transforms\\b9dd28db6f863b5d5f5dda310e6edc40\\transformed\\appcompat-1.6.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

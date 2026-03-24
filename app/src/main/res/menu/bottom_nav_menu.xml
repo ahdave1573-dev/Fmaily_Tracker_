@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_nav_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_create_group"
+        android:icon="@drawable/ic_nav_create"
+        android:title="Create" />
+
+    <item
+        android:id="@+id/nav_manage_members"
+        android:icon="@drawable/ic_nav_members"
+        android:title="Members" />
+
+    <item
+        android:id="@+id/nav_my_groups"
+        android:icon="@drawable/ic_nav_groups"
+        android:title="Groups" />
+
+
+</menu>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Family Tracker</string>
+    <string name="app_tagline">Real-time tracking simplified</string>
+
+    <string name="settings">Settings</string>
+    <string name="back">Back</string>
+    <string name="menu">Menu</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="help">Help &amp; Guide</string>
+
+    <string name="my_groups">My Groups</string>
+    <string name="create_group">Create Group</string>
+    <string name="manage_members">Manage Members</string>
+    <string name="group_name">Group Name</string>
+    <string name="group_code">Group Code</string>
+    <string name="share_location">Share Loc</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="no_groups_found">No groups joined yet.</string>
+    <string name="select_group">Select a Group</string>
+
+    <string name="mi">mi</string>
+    <string name="km">km</string>
+    <string name="min">min</string>
+    <string name="speed_unit">km/h</string>
+
+    <string name="login_title">Login to your account</string>
+    <string name="email_or_phone">Email or Phone Number</string>
+    <string name="hint_email_phone">Enter email or phone</string>
+    <string name="password">Password</string>
+    <string name="hint_password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="create_account">Create Account</string>
+
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Start tracking your family in real-time.</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="register">Register</string>
+
+    <string name="live_tracking">Live Tracking</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="finding_route">Finding best route...</string>
+    <string name="battery_level">Battery:</string>
+    <string name="last_updated">Last updated:</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_history">History</string>
+    <string name="nav_profile">Profile</string>
+    <string name="navigation_drawer_open">Open drawer</string>
+    <string name="navigation_drawer_close">Close drawer</string>
+
+    <string name="google_maps_key" translatable="false">AIzaSyC2FT0bUy9zL6cTjRj8Ev0L1aLaV05tzYw</string>
+    <string name="safe_secure_family_tracking" />
+    <string name="default_web_client_id" />
+
+</resources>

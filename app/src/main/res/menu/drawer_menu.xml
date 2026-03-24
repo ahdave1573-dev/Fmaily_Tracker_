@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_nav_home"
+            android:title="Home Map" />
+
+        <item
+            android:id="@+id/nav_create_group"
+            android:icon="@drawable/ic_nav_create"
+            android:title="Create New Group" />
+
+        <item
+            android:id="@+id/drawer_my_groups"
+            android:icon="@drawable/ic_nav_groups"
+            android:title="My Groups" />
+
+        <item
+            android:id="@+id/nav_manage_members"
+            android:icon="@drawable/ic_nav_members"
+            android:title="Manage Members" />
+    </group>
+
+    <item android:title="Account ">
+        <menu>
+
+            <item
+                android:id="@+id/drawer_logout"
+                android:icon="@drawable/ic_drawer_logout"
+                android:title="Sign Out"
+                app:iconTint="#EF4444" /> </menu>
+    </item>
+
+</menu>

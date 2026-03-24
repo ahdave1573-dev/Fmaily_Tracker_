@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_my_location.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_my_location.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_nav_members.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_nav_members.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_person_add.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_person_add.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/color_nav_selector.xml.flat",
+        "source": "com.gpstracker.app-main-46:/color/nav_selector.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_code_display.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_code_display.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_member_item.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_member_item.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/layout_activity_admin_dashboard.xml.flat",
+        "source": "com.gpstracker.app-main-46:/layout/activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/layout_activity_my_groups.xml.flat",
+        "source": "com.gpstracker.app-main-46:/layout/activity_my_groups.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_lock.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_edit_text_bg.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/edit_text_bg.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/layout_item_member.xml.flat",
+        "source": "com.gpstracker.app-main-46:/layout/item_member.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_facebook.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_facebook.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_location_pulse.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_location_pulse.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_person.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/color_nav_item_colors.xml.flat",
+        "source": "com.gpstracker.app-main-46:/color/nav_item_colors.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_group_card.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_group_card.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_splash.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_splash.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_button.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_button.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_drawer_logout.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_drawer_logout.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/layout_activity_register.xml.flat",
+        "source": "com.gpstracker.app-main-46:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_google.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_google.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_nav_home.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_nav_home.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/layout_activity_create_group.xml.flat",
+        "source": "com.gpstracker.app-main-46:/layout/activity_create_group.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_family.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_family.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/layout_activity_login.xml.flat",
+        "source": "com.gpstracker.app-main-46:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/xml_data_extraction_rules.xml.flat",
+        "source": "com.gpstracker.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_button_secondary.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_button_secondary.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_progress_white.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/progress_white.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_edittext.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_edittext.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_button_primary.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_button_primary.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_pill.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_pill.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_pill_white_transparent.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_pill_white_transparent.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_nav_create.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_nav_create.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_progress_gradient.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/progress_gradient.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/layout_activity_manage_members.xml.flat",
+        "source": "com.gpstracker.app-main-46:/layout/activity_manage_members.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_white_circle.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_white_circle.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/layout_activity_main.xml.flat",
+        "source": "com.gpstracker.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_social_button.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_social_button.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_email.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.gpstracker.app-main-46:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_pill_white.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_pill_white.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_menu.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_card.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_circle_background_purple.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/circle_background_purple.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_nav_groups.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_nav_groups.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/xml_backup_rules.xml.flat",
+        "source": "com.gpstracker.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_location_pin.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_location_pin.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_chip.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_chip.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_profile_placeholder.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_profile_placeholder.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_gps_pin.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_gps_pin.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_location_purple.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_location_purple.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_circle_gradient.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_circle_gradient.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_circle_light.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_circle_light.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/layout_nav_header.xml.flat",
+        "source": "com.gpstracker.app-main-46:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_button_gradient.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_button_gradient.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_nav_profile.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_nav_profile.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/menu_drawer_menu.xml.flat",
+        "source": "com.gpstracker.app-main-46:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/layout_activity_unified_map.xml.flat",
+        "source": "com.gpstracker.app-main-46:/layout/activity_unified_map.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/layout_activity_profile_settings.xml.flat",
+        "source": "com.gpstracker.app-main-46:/layout/activity_profile_settings.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/layout_item_group.xml.flat",
+        "source": "com.gpstracker.app-main-46:/layout/item_group.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.gpstracker.app-main-46:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/color_nav_item_color.xml.flat",
+        "source": "com.gpstracker.app-main-46:/color/nav_item_color.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_splash_gradient.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_splash_gradient.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_bg_gradient.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-merged_res-44:/drawable_ic_menu_mylocation.xml.flat",
+        "source": "com.gpstracker.app-main-46:/drawable/ic_menu_mylocation.xml"
+    }
+]

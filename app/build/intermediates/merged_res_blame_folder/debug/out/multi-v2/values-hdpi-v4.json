@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.gpstracker.app-mergeDebugResources-42:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Himansubhai\\.gradle\\caches\\8.10\\transforms\\b9dd28db6f863b5d5f5dda310e6edc40\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

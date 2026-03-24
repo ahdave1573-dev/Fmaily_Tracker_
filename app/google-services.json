@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "240287868292",
+    "firebase_url": "https://livegpstracking-31f5d-default-rtdb.firebaseio.com",
+    "project_id": "livegpstracking-31f5d",
+    "storage_bucket": "livegpstracking-31f5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240287868292:android:44c4341d7ff1cb682ba9d1",
+        "android_client_info": {
+          "package_name": "com.gpstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240287868292-rvfk266e9grphhp6jki3bpe6gp3vu4ej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gpstracker",
+            "certificate_hash": "7649b5b67834b829ad9229aabb3fb053aa271ad4"
+          }
+        },
+        {
+          "client_id": "240287868292-o2n2khrvtva0lv85rrsntbropjooe5pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5aktt10QeKr49TW0FP8njBgx7sVKmucQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240287868292-o2n2khrvtva0lv85rrsntbropjooe5pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

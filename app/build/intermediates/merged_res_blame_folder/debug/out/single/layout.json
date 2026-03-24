@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.gpstracker.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "com.gpstracker.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-mergeDebugResources-43:/layout/activity_create_group.xml",
+        "source": "com.gpstracker.app-main-46:/layout/activity_create_group.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-mergeDebugResources-43:/layout/activity_profile_settings.xml",
+        "source": "com.gpstracker.app-main-46:/layout/activity_profile_settings.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-mergeDebugResources-43:/layout/activity_register.xml",
+        "source": "com.gpstracker.app-main-46:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-mergeDebugResources-43:/layout/activity_manage_members.xml",
+        "source": "com.gpstracker.app-main-46:/layout/activity_manage_members.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-mergeDebugResources-43:/layout/activity_admin_dashboard.xml",
+        "source": "com.gpstracker.app-main-46:/layout/activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-mergeDebugResources-43:/layout/item_member.xml",
+        "source": "com.gpstracker.app-main-46:/layout/item_member.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-mergeDebugResources-43:/layout/activity_my_groups.xml",
+        "source": "com.gpstracker.app-main-46:/layout/activity_my_groups.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-mergeDebugResources-43:/layout/activity_login.xml",
+        "source": "com.gpstracker.app-main-46:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-mergeDebugResources-43:/layout/activity_unified_map.xml",
+        "source": "com.gpstracker.app-main-46:/layout/activity_unified_map.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-mergeDebugResources-43:/layout/nav_header.xml",
+        "source": "com.gpstracker.app-main-46:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.gpstracker.app-mergeDebugResources-43:/layout/item_group.xml",
+        "source": "com.gpstracker.app-main-46:/layout/item_group.xml"
+    }
+]

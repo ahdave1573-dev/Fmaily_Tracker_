@@ -1,0 +1,6 @@
+com.gpstracker.test.app-core-1.5.0-0 C:\Users\Himansubhai\.gradle\caches\8.10\transforms\a506b66d2902e7b627d9c0782c913de2\transformed\core-1.5.0\res
+com.gpstracker.test.app-annotation-experimental-1.3.0-1 C:\Users\Himansubhai\.gradle\caches\8.10\transforms\eb55585176d3ea3707fbba9dd5a542a3\transformed\annotation-experimental-1.3.0\res
+com.gpstracker.test.app-androidTest-2 D:\GPSTrackerApp\app\build\generated\res\resValues\androidTest\debug
+com.gpstracker.test.app-mergeDebugAndroidTestResources-3 D:\GPSTrackerApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.gpstracker.test.app-mergeDebugAndroidTestResources-4 D:\GPSTrackerApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.gpstracker.test.app-merged_res-5 D:\GPSTrackerApp\app\build\intermediates\merged_res\debugAndroidTest
